@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio\\LapStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\views\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\views\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\views\\shared\\itembox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\views\\shared\\itembox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\views\\items\\itemlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\views\\items\\itemlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\wwwroot\\modules\\items.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\wwwroot\\modules\\items.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\wwwroot\\modules\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\wwwroot\\modules\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\apicontrollers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\apicontrollers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\utlities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\utlities\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|d:\\visual studio\\lapstore\\lapstore\\wwwroot\\modules\\helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{41812CDC-B1DC-4A1A-A24B-77B581C0727A}|LapStore\\LapStore.csproj|solutionrelative:lapstore\\wwwroot\\modules\\helper.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Program.cs",
+              "RelativeDocumentMoniker": "LapStore\\Program.cs",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Program.cs",
+              "RelativeToolTip": "LapStore\\Program.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADgAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:39:19.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "LapStore\\Controllers\\PagesController.cs",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "LapStore\\Controllers\\PagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T07:38:18.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "LapStore\\Areas\\admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:34:16.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Areas\\admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Areas\\admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Areas\\admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "LapStore\\Areas\\admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:32:41.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LapStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAGUAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T07:03:01.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemBox.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Shared\\ItemBox.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Views\\Shared\\ItemBox.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Shared\\ItemBox.cshtml",
+              "RelativeToolTip": "LapStore\\Views\\Shared\\ItemBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T06:51:45.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Views\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LapStore\\Views\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T06:37:10.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "LapStore\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "LapStore\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:19:14.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LapStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T16:14:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Utlities\\Helper.cs",
+              "RelativeDocumentMoniker": "LapStore\\Utlities\\Helper.cs",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Utlities\\Helper.cs",
+              "RelativeToolTip": "LapStore\\Utlities\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T06:23:00.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helper.js",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\wwwroot\\Modules\\Helper.js",
+              "RelativeDocumentMoniker": "LapStore\\wwwroot\\Modules\\Helper.js",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\wwwroot\\Modules\\Helper.js",
+              "RelativeToolTip": "LapStore\\wwwroot\\Modules\\Helper.js",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-10T06:23:07.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemList.cshtml",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Items\\ItemList.cshtml",
+              "RelativeDocumentMoniker": "LapStore\\Views\\Items\\ItemList.cshtml",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\Views\\Items\\ItemList.cshtml",
+              "RelativeToolTip": "LapStore\\Views\\Items\\ItemList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T16:11:58.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Settings.js",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\wwwroot\\Modules\\Settings.js",
+              "RelativeDocumentMoniker": "LapStore\\wwwroot\\Modules\\Settings.js",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\wwwroot\\Modules\\Settings.js",
+              "RelativeToolTip": "LapStore\\wwwroot\\Modules\\Settings.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T16:09:04.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Items.js",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\wwwroot\\Modules\\Items.js",
+              "RelativeDocumentMoniker": "LapStore\\wwwroot\\Modules\\Items.js",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\wwwroot\\Modules\\Items.js",
+              "RelativeToolTip": "LapStore\\wwwroot\\Modules\\Items.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-09T16:08:13.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\Visual studio\\LapStore\\LapStore\\ApiControllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "LapStore\\ApiControllers\\ItemsController.cs",
+              "ToolTip": "D:\\Visual studio\\LapStore\\LapStore\\ApiControllers\\ItemsController.cs",
+              "RelativeToolTip": "LapStore\\ApiControllers\\ItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:08:02.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

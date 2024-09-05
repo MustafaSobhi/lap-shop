@@ -1,0 +1,106 @@
+﻿@model List<VwUsers>
+
+
+@section Styles
+{
+    <!-- Plugin css for this page -->
+    <link rel="stylesheet" href="~/assets/Backend/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+    <!-- End plugin css for this page -->
+}
+<div class="container-fluid page-body-wrapper">
+    <div class="main-panel">
+        <div class="content-wrapper">
+            <div class="page-header">
+                <h3 class="page-title"> Users table </h3>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="/admin">Dashboard</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Users table</li>
+                    </ol>
+                </nav>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h4 class="card-title">Users table</h4>
+                    <div class="row">
+                        <div class="col-12">
+                            
+                        </div>
+                        <div class="col-12">
+                           
+
+                            <table id="order-listing" class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        
+                                        <th> First Name</th>
+                                        <th>Last Name</th>
+                                        <th>Email </th>
+                                        <th>Role </th>
+                                     
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var user in Model)
+                                    {
+                                        
+                                        <tr style="margin:0px;padding:0px;">
+                                           
+                                            <td class="col-md-8"> @user.FirstName</td>
+                                            <td class="col-md-8">  @user.LastName</td>
+                                            <td class="col-md-8"> @user.Email</td>
+                                            <td class="col-md-8">  @user.RoleName</td>
+                                           @*  <td class="form-group">
+                                                <label for="exampleInputUsername1">Select Role</label>
+                                                <select asp-items="@(new SelectList(ViewBag.lstRoles,"RoleId","RoleName"))
+                                                 "></select>
+                                            </td> *@
+                                            <td>
+                                                <form asp-action="Delete" method="post">
+                                                    @Html.AntiForgeryToken()
+                                                    <input type="hidden" name="id" value="@user.UserId" /> <!-- Ensure the name matches the parameter in the action -->
+                                                    <input type="submit" value="Delete" class="btn btn-danger" />
+                                                </form>
+                                            </td>
+                                            
+                                        </tr>
+                                    }
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- content-wrapper ends -->
+    </div>
+    <!-- main-panel ends -->
+</div>
+
+@section Scripts
+{
+    <!-- plugins:js -->
+    <script src="~/Admin/vendors/js/vendor.bundle.base.js"></script>
+    <!-- endinject -->
+    <!-- Plugin js for this page -->
+    <script src="~/Admin/vendors/datatables.net/jquery.dataTables.js"></script>
+    <script src="~/Admin/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
+    <!-- End plugin js for this page -->
+    <!-- Custom js for this page -->
+    <script src="~/Admin/js/data-table.js"></script>
+    <!-- End custom js for this page -->
+
+    <script>
+        document.getElementById('roleSelect').addEventListener('change', function () {
+            var selectedRole = this.value;
+            document.getElementById('selectedRoleId').value = selectedRole;
+
+            if (selectedRole === 'admin-role-id') { // Replace 'admin-role-id' with the actual ID of the admin role
+                document.getElementById('updateRoleForm').submit();
+            }
+        });
+    </script>
+}
+
+
